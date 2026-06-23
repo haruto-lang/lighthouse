@@ -28,7 +28,7 @@ body {
   text-align: center;
 
   /* ここで表示サイズを調整 */
-  --preview-width: 260px;
+  --preview-width: 320px;
 }
 
 .preview-title {
